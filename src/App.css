@@ -1,0 +1,33 @@
+#root {
+  max-width: 1320px !important;
+  margin: 0 auto !important;
+  padding: 2rem !important;
+  font-family: Helvetica, sans-serif !important;
+}
+
+.card {
+  padding: 1em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+p, div, span {
+  font-size: large;
+}
+
+.food-img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 20%;
+}
+
+.resume-component {
+  background-color: rgb(106, 94, 244) !important;
+  color: aliceblue !important;
+  border-radius: 5% !important;
+  border-color: rgb(106, 94, 244) !important;
+}
+
